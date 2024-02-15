@@ -8,4 +8,4 @@ main = "src/worker-vless.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "example_dev_token"
+ UUID = "fe4daa7d-7fd6-452a-911d-04d329e7c886"
